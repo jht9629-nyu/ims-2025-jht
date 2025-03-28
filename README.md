@@ -1,6 +1,6 @@
 # [ims-2025-jht](https://github.com/jht9629-nyu/ims-2025-jht.git)
 
-# pages ?v=14
+# pages ?v=16
 
 <!-- # [pages](https://jht9629-nyu.github.io/ims-2025-jht/) ?=10 -->
 
@@ -12,8 +12,13 @@
 
 ## wk02
 
-- [ims01-Vi](wk02/ims01-Vi)
-- [moire_shader_3](wk02/moire_shader_3)
-- [portals_by_oliviaemlee_v0](wk02/portals_by_oliviaemlee_v0)
-- [Unexpected-cut](wk02/Unexpected-cut)
-- [Unexpected-cut-mask](wk02/Unexpected-cut-mask)
+- [wk02/ims01-Vi](wk02/ims01-Vi)
+- [wk02/moire_shader_3](wk02/moire_shader_3)
+- [wk02/portals_by_oliviaemlee_v0](wk02/portals_by_oliviaemlee_v0)
+- [wk02/Unexpected-cut](wk02/Unexpected-cut)
+- [wk02/Unexpected-cut-mask](wk02/Unexpected-cut-mask)
+
+## wk03
+
+- [wk03/faceMesh_mesh_nits](wk03/faceMesh_mesh_nits)
+- [wk03/moLib_iframe_player](wk03/moLib_iframe_player)
